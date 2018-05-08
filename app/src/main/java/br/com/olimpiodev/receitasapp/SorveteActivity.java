@@ -9,5 +9,7 @@ public class SorveteActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sorvete);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }

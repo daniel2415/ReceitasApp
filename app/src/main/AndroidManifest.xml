@@ -16,10 +16,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BoloActivity" />
-        <activity android:name=".TortaActivity" />
-        <activity android:name=".CookieActivity" />
-        <activity android:name=".SorveteActivity"></activity>
+
+        <activity
+            android:name=".BoloActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARRENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".TortaActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARRENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".CookieActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARRENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".SorveteActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARRENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
     </application>
 
 </manifest>

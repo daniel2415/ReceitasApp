@@ -13,7 +13,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/bolo"
+            android:src="@drawable/sorvete"
             android:scaleType="centerCrop" />
 
         <TextView
@@ -22,13 +22,13 @@
             android:background="@color/colorPrimaryDark"
             android:padding="16dp"
             android:textAppearance="?android:textAppearanceLargeInverse"
-            android:text="@string/receita_bolo_titulo"/>
+            android:text="@string/receita_sorvete_titulo"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="16dp"
             android:textAppearance="?android:textAppearanceSmall"
-            android:text="@string/receita_bolo_conteudo"/>
+            android:text="@string/receita_sorvete_conteudo"/>
     </LinearLayout>
 </ScrollView>

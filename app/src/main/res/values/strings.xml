@@ -9,4 +9,8 @@
     <string name="receita_cookie_desc">Receita de bolo de cookie</string>
     <string name="receita_sorvete_titulo">Receita de sorvete</string>
     <string name="receita_sorvete_desc">Receita de sorvete</string>
+    <string name="receita_bolo_conteudo">Conteudo da receita</string>
+    <string name="receita_torta_conteudo">Conteudo</string>
+    <string name="receita_cookie_conteudo">conteudo</string>
+    <string name="receita_sorvete_conteudo">conteudo</string>
 </resources>

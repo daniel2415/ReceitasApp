@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ReceitasApp</string>
+    <string name="receita_bolo_titulo">Receita de bolo</string>
+    <string name="receita_bolo_desc">Receita de bolo de casamento</string>
+    <string name="botao_ver_receita">VER RECEITA</string>
+    <string name="receita_torta_titulo">Receita de torta</string>
+    <string name="receita_torta_desc">Receita de bolo de torta</string>
+    <string name="receita_cookie_titulo">Receita de cookie</string>
+    <string name="receita_cookie_desc">Receita de bolo de cookie</string>
+    <string name="receita_sorvete_titulo">Receita de sorvete</string>
+    <string name="receita_sorvete_desc">Receita de sorvete</string>
 </resources>

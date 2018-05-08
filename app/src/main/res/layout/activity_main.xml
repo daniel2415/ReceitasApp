@@ -31,7 +31,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de bolo"
+                android:text="@string/receita_bolo_titulo"
                 android:textAppearance="?android:textAppearanceLarge" />
 
             <TextView
@@ -40,7 +40,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de bolo de casamento"
+                android:text="@string/receita_bolo_desc"
                 android:textAppearance="?android:textAppearanceMedium" />
 
             <Button
@@ -50,7 +50,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="VER RECEITA" />
+                android:text="@string/botao_ver_receita" />
         </LinearLayout>
 
         <LinearLayout
@@ -73,7 +73,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de torta"
+                android:text="@string/receita_torta_titulo"
                 android:textAppearance="?android:textAppearanceLarge" />
 
             <TextView
@@ -82,7 +82,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de bolo de torta"
+                android:text="@string/receita_torta_desc"
                 android:textAppearance="?android:textAppearanceMedium" />
 
             <Button
@@ -92,7 +92,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="VER RECEITA" />
+                android:text="@string/botao_ver_receita" />
         </LinearLayout>
 
         <LinearLayout
@@ -115,7 +115,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de cookie"
+                android:text="@string/receita_cookie_titulo"
                 android:textAppearance="?android:textAppearanceLarge" />
 
             <TextView
@@ -124,7 +124,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de bolo de cookie"
+                android:text="@string/receita_cookie_desc"
                 android:textAppearance="?android:textAppearanceMedium" />
 
             <Button
@@ -134,7 +134,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="VER RECEITA" />
+                android:text="@string/botao_ver_receita" />
         </LinearLayout>
 
         <LinearLayout
@@ -157,7 +157,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de sorvete"
+                android:text="@string/receita_sorvete_titulo"
                 android:textAppearance="?android:textAppearanceLarge" />
 
             <TextView
@@ -166,7 +166,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="Receita de sorvete"
+                android:text="@string/receita_sorvete_desc"
                 android:textAppearance="?android:textAppearanceMedium" />
 
             <Button
@@ -176,7 +176,7 @@
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:paddingTop="16dp"
-                android:text="VER RECEITA" />
+                android:text="@string/botao_ver_receita" />
         </LinearLayout>
 
     </LinearLayout>
